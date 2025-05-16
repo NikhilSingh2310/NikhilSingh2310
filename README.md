@@ -37,7 +37,7 @@
     <img src="https://sta.codeforces.com/s/32849/images/codeforces-logo-with-telegram.png" width="52" height="40" alt="Codeforces logo" />
   </a>
   <a href="https://www.codechef.com/users/nikhils2310" target="_blank">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="52" height="40" alt="CodeChef logo" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F6179134&psig=AOvVaw1sEMf1p7J4ZcJcx_3NXz8J&ust=1747522948851000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDqnLqMqY0DFQAAAAAdAAAAABAE" width="52" height="40" alt="CodeChef logo" />
   </a>
   <a href="https://leetcode.com/thakurnikhilsingh2004/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" alt="LeetCode logo" />
