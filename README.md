@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JwMnVtaTc5Zm5ycDFqbHlodXkyYXloYzlxOHBxZjZrcTc0d2RvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
