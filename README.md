@@ -1,3 +1,13 @@
+
+<h1 align="left">Hi 👋, I'm Nikhil</h1>
+<h3 align="left">🚀 A passionate Backend Developer and Competitive Programmer</h3>
+
+<img align="right" height="230" alt="Nikhil Illustration" src="https://drive.google.com/uc?export=view&id=1Bw7AwDnNgsjUu1la-80nivikKmaNKAfY" />
+
+- 🌱 I’m currently building scalable backend systems with **Spring Boot**  
+- 💻 I regularly participate in **Codeforces**, **LeetCode**, and **CodeChef** contests  
+- 🧠 Problem solver and consistent contributor on GFG  
+- 📫 Reach me at: **nikhils2310@gmail.com**
 <br clear="both">
 
 <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JwMnVtaTc5Zm5ycDFqbHlodXkyYXloYzlxOHBxZjZrcTc0d2RvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
@@ -59,15 +69,7 @@
 
 ###
 
-<br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikhilSingh2310/NikhilSingh2310/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikhilSingh2310/NikhilSingh2310/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NikhilSingh2310/NikhilSingh2310/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/NikhilSingh2310/count.svg?"  />
