@@ -33,11 +33,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <a href="https://codeforces.com/profile/nikhilsingh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/codeforces.gif" width="52" height="40" alt="Codeforces logo" />
+ <a href="https://codeforces.com/profile/nikhilsingh" target="_blank">
+    <img src="https://sta.codeforces.com/s/32849/images/codeforces-logo-with-telegram.png" width="52" height="40" alt="Codeforces logo" />
   </a>
   <a href="https://www.codechef.com/users/nikhils2310" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3521335-2948980.png" width="52" height="40" alt="CodeChef logo" />
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="52" height="40" alt="CodeChef logo" />
   </a>
   <a href="https://leetcode.com/thakurnikhilsingh2004/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" alt="LeetCode logo" />
