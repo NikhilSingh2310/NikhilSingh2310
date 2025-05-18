@@ -8,7 +8,7 @@
 <!-- About Section -->
 - 🌱 I’m currently building scalable backend systems with **Spring Boot** <br> 
 - 💻 I regularly participate in **Codeforces**, **LeetCode**, and **CodeChef** contests<br>  
-- 📄 To know more about my experience and skills, check out my [Resume](https://your-resume-link.com) 📂<br>
+- 📄 To know more about my experience and skills, check out my [Resume](https://drive.google.com/file/d/1fD-hHWgbG6Z0D0aQ9ODheGT7CTBZZ32w/view?usp=sharing) 📂<br>
 - 📫 Reach me at: **nikhils2310@gmail.com**<br>
 
 
