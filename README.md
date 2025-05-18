@@ -60,8 +60,8 @@
 <h3>📌 Pinned Projects</h3>
 <ul>
   <li><strong><a href="https://github.com/NikhilSingh2310/YourProject1" target="_blank">YourProject1</a></strong> – Description of your awesome project.</li>
-  <li><strong><a href="https://github.com/NikhilSingh2310/YourProject2" target="_blank">YourProject2</a></strong> – Another project that showcases your skills.</li>
-  <li><strong><a href="https://github.com/NikhilSingh2310/YourProject3" target="_blank">YourProject3</a></strong> – Optional third project.</li>
+  <li><strong><a href="https://github.com/NikhilSingh2310/bazario.git" target="_blank">Bazario</a></strong> – Developer-Centric E-Commerce Backend.</li>
+  <li><strong><a href="https://github.com/NikhilSingh2310/basera.git" target="_blank">Basera</a></strong> – Hotel Management System.</li>
 </ul>
 
 <!-- Clear Float -->
